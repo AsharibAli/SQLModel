@@ -1,6 +1,6 @@
 # SQLMODEL
 
-## Learning SQLModel
+## Learning SQLModel.
 
 ### SQLModel, SQL databases in Python, designed for simplicity, compatibility, and robustness.
 
